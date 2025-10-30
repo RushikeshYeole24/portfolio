@@ -59,7 +59,7 @@ export default function Projects() {
       githubUrl: "https://github.com/RushikeshYeole24/FinanceFlow",
       status: "Beta",
       year: "2024",
-      imagePlaceholder: "/images/FinanceFlow.png",
+      imagePlaceholder: "/images/Financeflow.png",
     },
     {
       id: 4,
@@ -72,6 +72,18 @@ export default function Projects() {
       status: "Concept",
       year: "2024",
       imagePlaceholder: "/images/Base X Club.png",
+    },
+    {
+      id: 5,
+      title: "Slide.Ai",
+      category: "EdTech Innovation",
+      description:"AI presentation generater using OpenRouter",
+      tech: ["Next.js", "Firebase", "OpenRouter API", "Node.js", "Express.js", "Recharts"],
+      liveUrl: "#",
+      githubUrl: "https://github.com/RushikeshYeole24/Slide.Ai",
+      status: "Concept",
+      year: "2024",
+      imagePlaceholder: "/images/Slideai.png",
     },
   ];
 
