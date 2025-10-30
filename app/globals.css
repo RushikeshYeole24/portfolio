@@ -874,8 +874,8 @@ html {
   .dock-item-enhanced:hover {
     transform: scale(1.05) !important;
   }
-}/* Fu
-turistic Projects Section */
+}
+/* Futuristic Projects Section */
 .futuristic-projects-section {
   padding: 80px 0;
   background: #ffffff;
@@ -1393,8 +1393,8 @@ turistic Projects Section */
   .action-btn {
     text-align: center;
   }
-}/
-* Project Image Display */
+}
+/* Project Image Display */
 .project-image-actual {
   width: 100%;
   height: 250px;
